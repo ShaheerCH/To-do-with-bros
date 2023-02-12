@@ -1,0 +1,8 @@
+.add-task{
+    margin: 100px 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #ccc;
+    background-color: #fff;
+}
